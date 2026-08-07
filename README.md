@@ -193,8 +193,6 @@ Android application project.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=SuperSlayQueen&hide_border=true&background=0D1117&ring=C9A7FF&fire=E8A7C7&currStreakLabel=C9A7FF&sideLabels=C9A7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
 
 </p>
@@ -231,27 +229,6 @@ Android application project.
 </p>
 
 ---
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C9A7FF&center=true&vCenter=true&width=700&lines=Clean+code+%3E+clever+code;Real+projects+%3E+endless+tutorials;Curiosity+%3E+fear;Consistency+%3E+perfection;Build+%E2%86%92+Learn+%E2%86%92+Improve" alt="Developer Mindset"/>
-
-</div>
-
----
-
-## 🌸 A Little More About Me
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-💻
-
-<br>
 
 **Code**
 
