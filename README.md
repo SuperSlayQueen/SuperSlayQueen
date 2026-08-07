@@ -1,103 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8e7dbe,100:f0a1c0&height=230&section=header&text=Sofia%20Murina&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Web%20%26%20Application%20Development&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8e7dbe,100:e8a7c7&height=230&section=header&text=Sofia%20Murina&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Application%20Development&descAlignY=62&descSize=17" width="100%"/>
 
-<h1>Hey there, I'm Sofia 👋</h1>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=C9A7FF&center=true&vCenter=true&width=700&lines=Developer;Web+Developer;Application+Developer;Building+real+projects;Learning+something+new+every+day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C9A7FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Building+modern+web+applications;Web+%26+Application+Development;Turning+ideas+into+real+projects;Always+learning+something+new" alt="Typing SVG"/>
 
-<br/>
+<br><br>
 
 <a href="https://github.com/SuperSlayQueen">
-  <img src="https://img.shields.io/badge/GitHub-SuperSlayQueen-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-SuperSlayQueen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SuperSlayQueen&style=for-the-badge&color=C9A7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=SuperSlayQueen&style=for-the-badge&color=8e7dbe&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### Hi! I'm Sofia ✨
-
-I'm a developer who enjoys creating **websites, applications and practical projects**.
-
-I like learning through real development: building something, figuring out how it works, fixing problems and making it better.
-
-* 💻 Web development
-* 🐍 Python & Django
-* ⚛️ React & JavaScript
-* 📱 Kotlin & Android
-* 💜 C# & .NET
-* 🎨 HTML & CSS
-* 🤖 Telegram bot development
-* 🚀 Always learning and building
+* 💻 **Full Stack Developer** passionate about building modern web apps.
+* 🌱 **Growing my skills through real projects** and hands-on development.
+* 🚀 **Building web applications, Telegram bots and software projects.**
+* 🎯 **Goal:** create useful products and keep becoming a stronger developer.
+* 🎨 **Passionate about technology, creativity, design and bringing ideas to life.**
+* ✨ **Always chasing the next idea worth building.**
 
 <br>
 
-> **Build → Learn → Improve → Repeat**
+<div align="center">
 
-</td>
+> *"Build it. Break it. Understand it. Make it better."*
 
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x5cWJqZ3F1cXV5b3M4Z2V3bGZ0d2R4eGQ4b3R1eGJ6dWZ5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="240" alt="Coding animation"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Tech Stack
 
-<p align="center">
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=django" height="50" alt="Django"/>
-<img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="Kotlin"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="Android Studio"/>
-<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
-<img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET"/>
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/>
 </p>
 
-<p align="center">
-  <i>My stack is based on technologies I actually use in my projects.</i>
+### 🐍 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
+</p>
+
+### 📱 Application Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio"/>
+<img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#"/>
+<img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET"/>
 </p>
 
 ---
 
 ## 🚀 What I Build
 
-<table align="center">
+<table>
 <tr>
 
 <td align="center" width="33%">
 
-### 🌐 Web
+### 🌐 Web Apps
 
-Websites and web applications with modern interfaces.
+Modern websites and web applications focused on functionality and user experience.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🤖 Bots
+### 🤖 Telegram Bots
 
-Telegram bots with application logic and interactive features.
+Interactive bots with profiles, likes, matching and application logic.
 
 </td>
 
@@ -105,7 +92,7 @@ Telegram bots with application logic and interactive features.
 
 ### 📱 Applications
 
-Mobile and application projects using Kotlin and C#/.NET.
+Mobile and desktop applications built with Kotlin and C#/.NET.
 
 </td>
 
@@ -114,7 +101,7 @@ Mobile and application projects using Kotlin and C#/.NET.
 
 ---
 
-## ✨ Selected Projects
+## ✨ Featured Projects
 
 <table>
 
@@ -126,7 +113,7 @@ Mobile and application projects using Kotlin and C#/.NET.
 
 Telegram bot with profiles, likes and matching functionality.
 
-**Technology:** Python
+**Python**
 
 </td>
 
@@ -136,7 +123,7 @@ Telegram bot with profiles, likes and matching functionality.
 
 Personal portfolio project.
 
-**Technology:** HTML
+**HTML**
 
 </td>
 
@@ -148,9 +135,9 @@ Personal portfolio project.
 
 ### 👗 aura-lab-catalog
 
-Clothing catalog project.
+Clothing catalog project with a visual-focused interface.
 
-**Technologies:** HTML · CSS
+**HTML · CSS**
 
 </td>
 
@@ -158,9 +145,9 @@ Clothing catalog project.
 
 ### ☕ Anticafe_Django
 
-Django-based web project.
+Web application built with Django.
 
-**Technology:** Python · Django
+**Python · Django**
 
 </td>
 
@@ -174,7 +161,7 @@ Django-based web project.
 
 Marketplace project.
 
-**Technology:** Python
+**Python**
 
 </td>
 
@@ -184,7 +171,7 @@ Marketplace project.
 
 Application for learning English.
 
-**Technology:** Kotlin
+**Kotlin**
 
 </td>
 
@@ -196,9 +183,9 @@ Application for learning English.
 
 ### ⚙️ Murina_S
 
-Application project.
+Application project built with C# and .NET.
 
-**Technology:** C# · .NET
+**C# · .NET**
 
 </td>
 
@@ -208,7 +195,7 @@ Application project.
 
 Android application project.
 
-**Technology:** Kotlin
+**Kotlin**
 
 </td>
 
@@ -218,7 +205,7 @@ Android application project.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -236,6 +223,20 @@ Android application project.
 
 ---
 
+## 🐍 My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%"/>
+
+</p>
+
+<p align="center">
+  <b>Watch the snake eat my contributions 🐍💜</b>
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -246,46 +247,48 @@ Android application project.
 
 ---
 
-## 🐍 Contribution Graph
+## 💭 Developer Mindset
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C9A7FF&center=true&vCenter=true&width=700&lines=Clean+code+%3E+clever+code;Real+projects+%3E+endless+tutorials;Curiosity+%3E+fear;Consistency+%3E+perfection;Build+%E2%86%92+Learn+%E2%86%92+Improve" alt="Developer mindset"/>
 
-</p>
-
----
-
-## 💭 My Developer Mindset
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9A7FF&center=true&vCenter=true&width=700&lines=Clean+code+%3E+clever+code;Real+projects+%3E+endless+tutorials;Consistency+%3E+perfection;Curiosity+%3E+fear;Build+%E2%86%92+Learn+%E2%86%92+Improve" alt="Developer mindset"/>
-
-</p>
+</div>
 
 ---
 
-## 🌐 Find Me
+## 🌸 A little more about me
 
-<p align="center">
+```text
+        ╭──────────────────────────────────────╮
+        │                                      │
+        │   💻  Code                           │
+        │   🎨  Create                         │
+        │   🧠  Learn                          │
+        │   🚀  Build                          │
+        │   ✨  Repeat                         │
+        │                                      │
+        ╰──────────────────────────────────────╯
+```
 
-<a href="https://github.com/SuperSlayQueen">
-  <img src="https://img.shields.io/badge/GitHub-SuperSlayQueen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
+I believe the best projects start with curiosity and become better through experimentation.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 🐱✨
+## Thanks for visiting my profile! 💜
 
-**See you in the next commit.**
+### See you in the next commit ✨
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8e7dbe,100:f0a1c0&height=130&section=footer" width="100%"/>
+<a href="https://github.com/SuperSlayQueen">
+<img src="https://img.shields.io/badge/Follow_my_journey-8E7DBE?style=for-the-badge&logo=github&logoColor=white" alt="Follow my journey"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:8e7dbe,100:e8a7c7&height=140&section=footer" width="100%"/>
 
 </div>
