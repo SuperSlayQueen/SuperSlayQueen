@@ -25,12 +25,6 @@
 
 <br>
 
-<div align="center">
-
-> *"Build it. Break it. Understand it. Make it better."*
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
