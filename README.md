@@ -209,9 +209,9 @@ Android application project.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperSlayQueen&show_icons=true&hide_border=true&theme=transparent&title_color=C9A7FF&icon_color=C9A7FF&text_color=AAAAAA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperSlayQueen&show_icons=true&hide_border=true&theme=transparent&title_color=C9A7FF&icon_color=C9A7FF&text_color=AAAAAA" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSlayQueen&layout=compact&hide_border=true&theme=transparent&title_color=C9A7FF&text_color=AAAAAA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSlayQueen&layout=compact&hide_border=true&theme=transparent&title_color=C9A7FF&text_color=AAAAAA" alt="Top Languages"/>
 
 </p>
 
@@ -228,20 +228,28 @@ Android application project.
 <p align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
-    width="95%"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
+alt="GitHub contribution snake"
+width="95%"
+/>
+
 </picture>
+
+<br><br>
+
+<b>Watch the snake eat my contributions 🐍💜</b>
 
 </p>
 
@@ -251,7 +259,7 @@ Android application project.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperSlayQueen&bg_color=0D1117&color=C9A7FF&line=8E7DBE&point=E8A7C7&area=true&hide_border=true" width="95%" alt="Contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperSlayQueen&bg_color=0D1117&color=C9A7FF&line=8E7DBE&point=E8A7C7&area=true&hide_border=true" width="95%" alt="Contribution Activity"/>
 
 </p>
 
@@ -261,33 +269,83 @@ Android application project.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C9A7FF&center=true&vCenter=true&width=700&lines=Clean+code+%3E+clever+code;Real+projects+%3E+endless+tutorials;Curiosity+%3E+fear;Consistency+%3E+perfection;Build+%E2%86%92+Learn+%E2%86%92+Improve" alt="Developer mindset"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=C9A7FF&center=true&vCenter=true&width=700&lines=Clean+code+%3E+clever+code;Real+projects+%3E+endless+tutorials;Curiosity+%3E+fear;Consistency+%3E+perfection;Build+%E2%86%92+Learn+%E2%86%92+Improve" alt="Developer Mindset"/>
 
 </div>
 
 ---
 
-## 🌸 A little more about me
+## 🌸 A Little More About Me
 
-```text
-        ╭──────────────────────────────────────╮
-        │                                      │
-        │   💻  Code                           │
-        │   🎨  Create                         │
-        │   🧠  Learn                          │
-        │   🚀  Build                          │
-        │   ✨  Repeat                         │
-        │                                      │
-        ╰──────────────────────────────────────╯
-```
+<table align="center">
+<tr>
 
-I believe the best projects start with curiosity and become better through experimentation.
+<td align="center">
+
+💻
+
+<br>
+
+**Code**
+
+</td>
+
+<td align="center">
+
+🎨
+
+<br>
+
+**Create**
+
+</td>
+
+<td align="center">
+
+🧠
+
+<br>
+
+**Learn**
+
+</td>
+
+<td align="center">
+
+🚀
+
+<br>
+
+**Build**
+
+</td>
+
+<td align="center">
+
+✨
+
+<br>
+
+**Repeat**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+*I believe the best projects start with curiosity and become better through experimentation.*
+
+</div>
 
 ---
 
 <div align="center">
 
-## Thanks for visiting my profile! 💜
+## 💜 Thanks for visiting my profile!
 
 ### See you in the next commit ✨
 
