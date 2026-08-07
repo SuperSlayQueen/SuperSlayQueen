@@ -227,12 +227,22 @@ Android application project.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+</picture>
 
-</p>
-
-<p align="center">
-  <b>Watch the snake eat my contributions 🐍💜</b>
 </p>
 
 ---
