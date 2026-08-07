@@ -1,34 +1,32 @@
 name: Purple Contribution Snake
 
 on:
-workflow_dispatch:
-schedule:
-- cron: "0 0 * * *"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-snake:
-runs-on: ubuntu-latest
+  snake:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Generate snake
-    uses: Platane/snk/svg-only@v3
-    with:
-      github_user_name: SuperSlayQueen
-      outputs: |
-        dist/snake.svg?color_snake=%23E8A7C7%26color_dots=%2300000000%2CF1E6FF%2CD8B4FE%2CB991E8%2C8E5CC7
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SuperSlayQueen
+          outputs: |
+            dist/snake.svg?color_snake=%23E8A7C7%26color_dots=%2300000000%2CF1E6FF%2CD8B4FE%2CB991E8%2C8E5CC7
 
-  - name: Publish snake
-    run: |
-      git config --global user.name "github-actions[bot]"
-      git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git clone --branch output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SuperSlayQueen/SuperSlayQueen.git output
-      cp dist/snake.svg output/github-contribution-grid-snake.svg
-      cd output
-      git add github-contribution-grid-snake.svg
-      git commit -m "Update contribution snake" || true
-      git push
-```
+      - name: Publish snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git clone --branch output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SuperSlayQueen/SuperSlayQueen.git output
+          cp dist/snake.svg output/github-contribution-grid-snake.svg
+          cd output
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || true
+          git push
