@@ -6,10 +6,6 @@ type=waving&color=0:667eea,50:8e7dbe,100:e8a7c7&height=230&section=header&text=S
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C9A7FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Building+modern+web+applications;Web+%26+Application+Development;Turning+ideas+into+real+projects;Always+learning+something+new" alt="Typing SVG"/>
-
-<br><br>
-
 <a href="https://github.com/SuperSlayQueen">
 <img src="https://img.shields.io/badge/GitHub-SuperSlayQueen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
