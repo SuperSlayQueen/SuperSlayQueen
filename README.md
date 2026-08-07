@@ -226,33 +226,12 @@ Android application project.
 ## 🐍 My Contributions
 
 <p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg"
-alt="GitHub contribution snake"
-width="95%"
-/>
-
-</picture>
-
-<br><br>
-
-<b>Watch the snake eat my contributions 🐍💜</b>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SuperSlayQueen/SuperSlayQueen/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## 📈 Contribution Activity
