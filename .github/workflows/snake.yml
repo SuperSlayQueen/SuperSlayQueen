@@ -1,50 +1,31 @@
 name: Generate Contribution Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  generate:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SuperSlayQueen
+          outputs: dist/github-contribution-grid-snake.svg
 
-  - name: Generate Snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: SuperSlayQueen
-      outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-  - name: Publish Snake
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      git fetch origin output:output || true
-
-      if git show-ref --verify --quiet refs/heads/output; then
-        git checkout output
-      else
-        git checkout --orphan output
-        git rm -rf . || true
-      fi
-
-      cp dist/github-contribution-grid-snake.svg .
-      cp dist/github-contribution-grid-snake-dark.svg .
-
-      git add github-contribution-grid-snake.svg
-      git add github-contribution-grid-snake-dark.svg
-
-      git commit -m "Update contribution snake" || true
-      git push origin output
-```
+      - name: Publish snake
+        run: |
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SuperSlayQueen/SuperSlayQueen.git output
