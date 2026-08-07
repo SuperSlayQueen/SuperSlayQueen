@@ -5,6 +5,7 @@
 <h2 align='center' ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADDAF7&center=true&width=435&lines=I+am+fullstack+developer" alt="Typing SVG" /></a></h2>
 
 type=waving&color=0:667eea,50:8e7dbe,100:e8a7c7&height=230&section=header&text=Sofia%20Murina&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Application%20Development&descAlignY=62&descSize=17" width="100%"/>
+
 <br>
 
 <a href="https://github.com/SuperSlayQueen">
