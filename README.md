@@ -8,12 +8,6 @@ type=waving&color=0:667eea,50:8e7dbe,100:e8a7c7&height=230&section=header&text=S
 
 <br>
 
-<a href="https://github.com/SuperSlayQueen">
-<img src="https://img.shields.io/badge/GitHub-SuperSlayQueen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=SuperSlayQueen&style=for-the-badge&color=8e7dbe&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
