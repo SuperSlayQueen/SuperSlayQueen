@@ -7,10 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADDAF7&center=true&width=435&lines=I+am+fullstack+developer" alt="Typing SVG">
 </a>
 
-
 </div>
-
-
 
 ---
 
@@ -22,7 +19,6 @@
 * 🎯 **Goal:** create useful products and keep becoming a stronger developer.
 * 🎨 **Passionate about technology, creativity, design and bringing ideas to life.**
 * ✨ **Always chasing the next idea worth building.**
-
 <br>
 
 ---
@@ -196,14 +192,6 @@ Android application project.
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperSlayQueen&show_icons=true&hide_border=true&theme=transparent&title_color=C9A7FF&icon_color=C9A7FF&text_color=AAAAAA" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSlayQueen&layout=compact&hide_border=true&theme=transparent&title_color=C9A7FF&text_color=AAAAAA" alt="Top Languages"/>
-
-</p>
 
 <p align="center">
 
